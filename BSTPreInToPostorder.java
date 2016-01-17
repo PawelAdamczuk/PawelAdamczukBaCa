@@ -3,7 +3,7 @@
 /*
  * The goal of this program is to output a preorder or postorder  binary search tree walk 
  *node order having as input an inorder walk node order and either postorder or preorder walk 
- *node order respectively (doing do efficiently, without actually constructing the tree).
+ *node order respectively (doing so efficiently, without actually constructing the tree).
  *import java.util.Scanner;
 */
 
